@@ -1,0 +1,18 @@
+- key: Music and Spotify
+  value:
+    - key: Most Listened Genre
+      value: Rock
+    - key: Favorite Artist
+      value: Queen
+    - key: Top Album
+      value: "A Night at the Opera by Queen"
+    - key: Top Song
+      value: "Bohemian Rhapsody by Queen"
+    - key: Most Played Playlist
+      value: "Daily Mix 1"
+    - key: Hours Listened This Month
+      value: 50 hours
+    - key: Top Discovery
+      value: "Imagine Dragons"
+    - key: Favorite Podcast
+      value: "The Daily"

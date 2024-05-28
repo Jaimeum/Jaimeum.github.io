@@ -1,0 +1,27 @@
+- key: Movies, Series, and Anime
+  value:
+    - key: Favorite Movie
+      value: seven
+    - key: Favorite Series
+      value: sherlok 
+    - key: Favorite Anime
+      value: One Piece
+    - key: Most Watched Genre
+      value: Sci-Fi
+    - key: Current Binge
+      value: the office
+    - key: Recently Watched Movie
+      value: the fall guy
+    - key: Recently Watched Anime
+      value: solo leveling
+    - key: Top Recommendation
+      value:
+      - key: 86 (Eighty-Six)
+        value: anime
+      - key: Dororo
+        value: anime
+      - key: 
+    - key: Comfort Show
+      value: brooklyn nine-nine
+    - key: Upcoming Release
+      value: deadpool 3

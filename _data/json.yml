@@ -1,4 +1,48 @@
 - key: Name
   value: Jaime Uria
+
+- key: CV
+  value: curriculum-vitae.json
   url: /about/
+
+
+- key: Description
+  value:
+    - Hola
+    - This is my website
+    - JSON format
+    - Welcome to my corner of the web
+    - Explore my projects
+    - Discover my interests
+    - Learn more about me
+    - Connect with me
+    - Enjoy your stay
+    - Coding enthusiast
+    - Tech lover
+    - Passionate about learning
+    - Sharing my journey
+    - Stay tuned for updates
+  typed: true
+
+- key: Hobbies
+  value:
+    - key: Movies, series and anime
+      value: 
+    - key: Manga
+      value: I love getting lost in manga and light novels
+      url: /manga/
+    - key: Volleyball
+      value: Playing volleyball is my favorite way to stay active and have fun
+    - key: Tennis
+      value: Tennis is a sport that i have enjoyed since i was a kid
+    - key: music
+      value: I love listening to music and discovering new artists
+      url: /music/
+    - key: Cooking
+      value: I like making some food for my family and friends
+    - key: Video Games
+      value: Playing video games is a fun way to relax and challenge myself
+      url: /games/
+    - key: Travel
+      value: Visiting new places and experiencing different cultures is a passion of mine
 

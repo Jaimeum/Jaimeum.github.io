@@ -14,14 +14,9 @@
   value: Jaimeum
   url: https://github.com/Jaimeum
 
-- key: Professional Objective
-  value:
-    - To start my career in data science where I can use my programming and data analysis skills to help solve problems and improve business processes.
-    - I am eager to keep learning and growing in a supportive and team-oriented environment.
-
 - key: Education
   value:
-    - institution: Instituto Tecnológico Autónomo de México
+    - institution: ITAM
       location: CDMX
       degree: Data Science
       date: Aug 2020
@@ -36,28 +31,18 @@
 - key: Technical Skills & Projects
   value:
     - category: Programming
-      skills:
-        - Python
-        - R
-        - SQL (Postgres)
-        - JAVA
-    - category: Other computer skills
-      skills:
-        - Docker
-        - pyspark
-        - neo4j
-        - mongo
-        - polars
-        - API’s
+      skills: [Python, R, SQL (Postgres), JAVA]
+    - category: Other Computer Skills
+      skills: [Docker, pyspark, neo4j, mongo, polars, APIs]
     - category: Data Structure Project
-      description: Developed a Java algorithm proficient in solving Sudoku puzzles leveraging sets as the primary data structure. Utilizing a recursive approach the algorithm efficiently navigates puzzle complexities showcasing both innovative problem-solving skills and proficiency in Java programming.
-    - category: Data Bases Final Project
-      description: I spearheaded the design and implementation of a robust relational database using PostgreSQL to manage the intricate workflows of a hospital. Leveraging Python programming I developed a streamlined system that minimized the need for manual querying through pgAdmin ensuring seamless operations and efficiency.
+      description: Developed a Java algorithm to solve Sudoku puzzles using sets and recursion.
+    - category: Databases Final Project
+      description: Designed and implemented a relational database for a hospital using PostgreSQL and Python
 
 - key: Leadership
   value:
     - organization: Local Church
       location: Satélite Iglesia Cristiana
-      position: Production and camera director
-      date: January 2018 - Present
-      description: Led the organization and execution of live and video conferences from inception to completion. This encompassed team formation, logistical coordination, and assuming responsibility for seamless event management on the day of the conference.
+      position: Production and Camera Director
+      date: Jan 2018 - Present
+      description: Led the organization and execution of live and video conferences, handling team formation, logistics, and event management.
