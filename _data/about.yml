@@ -26,7 +26,7 @@
       value: Aug 2020
     - key: Details
       value: 
-        - Relevant Coursework: Data Structures, Data Bases, Probability I and II, Non-relational Databases
+        - Relevant Coursework: Data Structures, Data Bases, Probability 1 and 2, Non-relational Databases
         - Volleyball team commitment: 9 hours/week
     - key: Institution
       value: Prepa Tec
@@ -41,17 +41,17 @@
   value:
     - key: Programming
       value:
-        - Python
-        - R
-        - SQL (Postgres)
+        - Python, 
+        - R, 
+        - SQL (Postgres), 
         - JAVA
     - key: Other Computer Skills
       value:
-        - Docker
-        - pyspark
-        - neo4j
-        - mongo
-        - polars
+        - Docker, 
+        - pyspark, 
+        - neo4j, 
+        - mongo, 
+        - polars, 
         - APIs
 
 - key: Projects
