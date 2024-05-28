@@ -11,7 +11,6 @@
     - key: Details
       value: 
         - Relevant Coursework: Data Structures, Data Bases, Probability 1 and 2, Non-relational Databases
-        - Volleyball team commitment: 9 hours/week
     - key: Institution
       value: Prepa Tec
     - key: Location
@@ -31,9 +30,6 @@
     value: PostgreSQL
   - key: R
     value: ggplot2, dplyr, tidyr
-
-- key: other skills
-  value:
   - key: Docker
     value: Docker Compose
   - key: neo4j
