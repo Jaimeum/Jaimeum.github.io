@@ -21,7 +21,11 @@
       degree: Data Science
       date: Aug 2020
       details:
-        - Relevant Coursework: Data Structures, Data Bases, Probability I and II, Non-relational Databases
+        - Relevant Coursework: 
+          - Data Structures
+          - Data Bases
+          - Probability I and II
+          - Non-relational Databases
         - Commit 9 hours per week to the representative volleyball team.
     - institution: Prepa Tec
       location: Edo. Mex.
@@ -31,13 +35,23 @@
 - key: Technical Skills & Projects
   value:
     - category: Programming
-      skills: [Python, R, SQL (Postgres), JAVA]
+      skills:
+        - Python
+        - R
+        - SQL (Postgres)
+        - JAVA
     - category: Other Computer Skills
-      skills: [Docker, pyspark, neo4j, mongo, polars, APIs]
+      skills:
+        - Docker
+        - pyspark
+        - neo4j
+        - mongo
+        - polars
+        - APIs
     - category: Data Structure Project
       description: Developed a Java algorithm to solve Sudoku puzzles using sets and recursion.
     - category: Databases Final Project
-      description: Designed and implemented a relational database for a hospital using PostgreSQL and Python
+      description: Designed and implemented a relational database for a hospital using PostgreSQL and Python.
 
 - key: Leadership
   value:
