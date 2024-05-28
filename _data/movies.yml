@@ -15,12 +15,7 @@
     - key: Recently Watched Anime
       value: solo leveling
     - key: Top Recommendation
-      value:
-      - key: 86 (Eighty-Six)
-        value: anime
-      - key: Dororo
-        value: anime
-      - key: 
+      value: 86, dororo
     - key: Comfort Show
       value: brooklyn nine-nine
     - key: Upcoming Release
