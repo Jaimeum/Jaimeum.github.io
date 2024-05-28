@@ -1,0 +1,63 @@
+- key: Name
+  value: Jaime Uria
+
+- key: Location
+  value: Estado de México 52938
+
+- key: Email
+  value: juriamed@itam.mx
+
+- key: Phone
+  value: 55 4033 1320
+
+- key: GitHub
+  value: Jaimeum
+  url: https://github.com/Jaimeum
+
+- key: Professional Objective
+  value:
+    - To start my career in data science where I can use my programming and data analysis skills to help solve problems and improve business processes.
+    - I am eager to keep learning and growing in a supportive and team-oriented environment.
+
+- key: Education
+  value:
+    - institution: Instituto Tecnológico Autónomo de México
+      location: CDMX
+      degree: Data Science
+      date: Aug 2020
+      details:
+        - Relevant Coursework: Data Structures, Data Bases, Probability I and II, Non-relational Databases
+        - Commit 9 hours per week to the representative volleyball team.
+    - institution: Prepa Tec
+      location: Edo. Mex.
+      degree: High School Diploma
+      date: June 2020
+
+- key: Technical Skills & Projects
+  value:
+    - category: Programming
+      skills:
+        - Python
+        - R
+        - SQL (Postgres)
+        - JAVA
+    - category: Other computer skills
+      skills:
+        - Docker
+        - pyspark
+        - neo4j
+        - mongo
+        - polars
+        - API’s
+    - category: Data Structure Project
+      description: Developed a Java algorithm proficient in solving Sudoku puzzles leveraging sets as the primary data structure. Utilizing a recursive approach the algorithm efficiently navigates puzzle complexities showcasing both innovative problem-solving skills and proficiency in Java programming.
+    - category: Data Bases Final Project
+      description: I spearheaded the design and implementation of a robust relational database using PostgreSQL to manage the intricate workflows of a hospital. Leveraging Python programming I developed a streamlined system that minimized the need for manual querying through pgAdmin ensuring seamless operations and efficiency.
+
+- key: Leadership
+  value:
+    - organization: Local Church
+      location: Satélite Iglesia Cristiana
+      position: Production and camera director
+      date: January 2018 - Present
+      description: Led the organization and execution of live and video conferences from inception to completion. This encompassed team formation, logistical coordination, and assuming responsibility for seamless event management on the day of the conference.
