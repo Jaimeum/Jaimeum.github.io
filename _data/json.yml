@@ -47,3 +47,14 @@
     - key: Travel
       value: Visiting new places and trying new foods is always an adventure
 
+- key: profiles
+  value:
+    - key: github
+      value: jaimeum
+      url: https://github.com/Jaimeum
+    - key: linkedin
+      value: Jaime Uria
+      url: https://www.linkedin.com/in/jaime-uria/
+    - key: instagram
+      value: jaimeum
+      url: https://www.instagram.com/jaime_uria/

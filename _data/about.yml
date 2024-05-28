@@ -41,31 +41,9 @@
   - key: mongoDB
     value: pymongo
 
-- key: languages
-  value:
-  - key: Spanish
-    value: Native
-  - key: English
-    value: Professional Proficiency
-  - key: german
-    value: Basic
-
 - key: Projects
   value:
     - key: Data Structure Project
       value: Developed a Java algorithm to solve Sudoku puzzles using sets and recursion.
     - key: Databases Final Project
       value: Designed and implemented a relational database for a hospital using PostgreSQL and Python.
-
-- key: Leadership
-  value:
-    - key: Organization
-      value: Local Church
-    - key: Location
-      value: Satélite Iglesia Cristiana
-    - key: Position
-      value: Production and Camera Director
-    - key: Date
-      value: Jan 2018 - Present
-    - key: Description
-      value: Led the organization and execution of live and video conferences, handling team formation, logistics, and event management.
