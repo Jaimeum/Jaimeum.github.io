@@ -14,10 +14,6 @@
       value: Prepa Tec
     - key: Location
       value: Edo. Mex.
-    - key: Degree
-      value: High School Diploma
-    - key: Date
-      value: June 2020
 
 - key: programing skills 
   value:
@@ -41,7 +37,7 @@
     value: bash scripting, bash commands
   - key: aws 
     value: ec2
-    
+
 - key: Projects
   value:
     - key: Data Structure Project
