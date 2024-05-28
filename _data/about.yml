@@ -8,9 +8,8 @@
       value: Data Science
     - key: Date
       value: Aug 2020
-    - key: Details
-      value: 
-        - Relevant Coursework: Data Structures, Data Bases, Probability 1 and 2, Non-relational Databases
+    - key: relevant coursework
+      value: Data Structures, Data Bases, Probability 1 and 2, Non-relational Databases
     - key: Institution
       value: Prepa Tec
     - key: Location
@@ -36,7 +35,13 @@
     value: Cypher
   - key: mongoDB
     value: pymongo
-
+  - key: git
+    value: git flow, git rebase, git merge
+  - key: bash
+    value: bash scripting, bash commands
+  - key: aws 
+    value: ec2
+    
 - key: Projects
   value:
     - key: Data Structure Project
