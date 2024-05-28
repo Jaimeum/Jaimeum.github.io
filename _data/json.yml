@@ -26,8 +26,9 @@
 
 - key: Hobbies
   value:
-    - key: Movies, series and anime
-      value: 
+    - key: entretainment
+      value: I love to watch movies and series
+      url: /movies/
     - key: Manga
       value: I love getting lost in manga and light novels
       url: /manga/

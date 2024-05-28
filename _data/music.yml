@@ -1,18 +1,17 @@
 - key: Music and Spotify
   value:
     - key: Most Listened Genre
-      value: Rock
+      value: house music
     - key: Favorite Artist
-      value: Queen
-    - key: Top Album
-      value: "A Night at the Opera by Queen"
+      value: muse
     - key: Top Song
-      value: "Bohemian Rhapsody by Queen"
+      value: dragon attack
     - key: Most Played Playlist
-      value: "Daily Mix 1"
+      value: spanich
+      url: https://open.spotify.com/playlist/05y5TPKin0Q0cF85BgDbDC?si=1QrJYwwPThykcjnYy9c55A&pi=u-Ksesk_zlREOT
     - key: Hours Listened This Month
       value: 50 hours
     - key: Top Discovery
-      value: "Imagine Dragons"
+      value: electric light orchestra
     - key: Favorite Podcast
-      value: "The Daily"
+      value: la cotorrisa
