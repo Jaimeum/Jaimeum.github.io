@@ -1,50 +1,56 @@
 - key: Education
   value:
     - key: Institution
-      value: ITAM
+      value: Instituto Tecnológico Autónomo de México (ITAM)
     - key: Location
-      value: CDMX
+      value: CDMX, México
     - key: Degree
-      value: Data Science
+      value: B.S. in Data Science
     - key: Date
-      value: Aug 2020
-    - key: relevant coursework
-      value: Data Structures, Data Bases, Probability 1 and 2, Non-relational Databases
+      value: Expected May 2026
+    - key: Relevant Coursework
+      value: Machine Learning, Applied Statistics, Databases (SQL & NoSQL), Data Structures, Information Visualization
     - key: Institution
-      value: Prepa Tec
+      value: Prepa Tec Esmeralda
     - key: Location
-      value: Edo. Mex.
+      value: Edo. Mex., México
 
-- key: programing skills 
+- key: Programming Skills 
   value:
-  - key: Python
-    value: pyspark, pandas, numpy, matplotlib, seaborn, plotly, polars
-  - key: Java
-    value: Data Structures, Algorithms, Object-Oriented Programming
-  - key: SQL
-    value: PostgreSQL
-  - key: R
-    value: ggplot2, dplyr, tidyr
-  - key: Docker
-    value: Docker Compose
-  - key: neo4j
-    value: Cypher
-  - key: mongoDB
-    value: pymongo
-  - key: git
-    value: git flow, git rebase, git merge
-  - key: bash
-    value: bash scripting, bash commands
-  - key: aws 
-    value: ec2
+    - key: Python
+      value: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Polars, PySpark
+    - key: R
+      value: ggplot2, dplyr, tidyr
+    - key: SQL
+      value: PostgreSQL, MySQL
+    - key: Julia
+      value: DataFrames.jl, Statistics
+    - key: Java
+      value: Data Structures, OOP, Algorithms
+    - key: Docker
+      value: Docker Compose
+    - key: Git
+      value: git flow, rebase, merge
+    - key: Bash
+      value: scripting, CLI automation
+    - key: Neo4j
+      value: Cypher
+    - key: MongoDB
+      value: PyMongo
+    - key: AWS
+      value: EC2
 
 - key: Projects
   value:
+    - key: Mr. Piano
+      value: Developed a genetic algorithm to generate structured MIDI piano music using music-informed mutation, crossover, and a multifaceted fitness function.
+    - key: Tweet Generator
+      value: Fine-tuned a LLaMA model with LoRA for automated social media posts based on scraped university event data.
     - key: Data Structure Project
-      value: Developed a Java algorithm to solve Sudoku puzzles using sets and recursion.
+      value: Built a Java solver for Sudoku using recursive backtracking and set-based constraints.
     - key: Databases Final Project
-      value: Designed and implemented a relational database for a hospital using PostgreSQL and Python.
+      value: Designed and implemented a hospital management database in PostgreSQL with Python-based queries and UI.
 
 - key: return
   value: previous page
-  url: Jaimeum.github.io
+  url: https://jaimeum.github.io
