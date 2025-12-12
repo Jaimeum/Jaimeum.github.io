@@ -1,10 +1,9 @@
 - key: Name
   value: Jaime Uria
 
-- key: CV
-  value: cv.json
+- key: About Me
+  value: about.json
   url: /about/
-
 
 - key: Description
   value:
@@ -12,13 +11,13 @@
     - This is my website
     - JSON format
     - Welcome to my corner of the web
-    - Explore my projects
-    - Discover my interests
+    - Explore my interests
+    - Discover what I like
     - Learn more about me
     - Connect with me
     - Enjoy your stay
-    - Coding enthusiast
-    - Tech lover
+    - Music enthusiast
+    - Always curious
     - Passionate about learning
     - Sharing my journey
     - Stay tuned for updates
@@ -58,3 +57,6 @@
     - key: instagram
       value: jaimeum
       url: https://www.instagram.com/jaime_uria/
+    - key: last.fm
+      value: jaimeum19
+      url: https://www.last.fm/user/jaimeum19

@@ -1,5 +1,5 @@
 ---
 layout: about
-title: Curriculum
+title: About Me
 permalink: /about/
 ---

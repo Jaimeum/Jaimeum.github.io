@@ -1,55 +1,43 @@
-- key: Education
+- key: About Me
   value:
-    - key: Institution
-      value: Instituto Tecnológico Autónomo de México (ITAM)
+    - key: Bio
+      value: "[Add a short description about yourself here]"
     - key: Location
-      value: CDMX, México
-    - key: Degree
-      value: B.S. in Data Science
-    - key: Date
-      value: Expected May 2026
-    - key: Relevant Coursework
-      value: Machine Learning, Applied Statistics, Databases (SQL & NoSQL), Data Structures, Information Visualization
-    - key: Institution
-      value: Prepa Tec Esmeralda
-    - key: Location
-      value: Edo. Mex., México
+      value: "[Your city, country]"
+    - key: Currently
+      value: "[What are you up to these days?]"
 
-- key: Programming Skills 
+- key: Interests
   value:
-    - key: Python
-      value: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Polars, PySpark
-    - key: R
-      value: ggplot2, dplyr, tidyr
-    - key: SQL
-      value: PostgreSQL, MySQL
-    - key: Julia
-      value: DataFrames.jl, Statistics
-    - key: Java
-      value: Data Structures, OOP, Algorithms
-    - key: Docker
-      value: Docker Compose
-    - key: Git
-      value: git flow, rebase, merge
-    - key: Bash
-      value: scripting, CLI automation
-    - key: Neo4j
-      value: Cypher
-    - key: MongoDB
-      value: PyMongo
-    - key: AWS
-      value: EC2
+    - key: Passion
+      value: "[What drives you?]"
+    - key: Learning
+      value: "[What are you currently learning?]"
+    - key: Goal
+      value: "[What's your current goal?]"
 
-- key: Projects
+- key: Fun Facts
   value:
-    - key: Mr. Piano
-      value: Developed a genetic algorithm to generate structured MIDI piano music using music-informed mutation, crossover, and a multifaceted fitness function.
-    - key: Tweet Generator
-      value: Fine-tuned a LLaMA model with LoRA for automated social media posts based on scraped university event data.
-    - key: Data Structure Project
-      value: Built a Java solver for Sudoku using recursive backtracking and set-based constraints.
-    - key: Databases Final Project
-      value: Designed and implemented a hospital management database in PostgreSQL with Python-based queries and UI.
+    - "[Add a fun fact about yourself]"
+    - "[Another fun fact]"
+    - "[One more fun fact]"
+
+- key: Favorites
+  value:
+    - key: Food
+      value: "[Your favorite food]"
+    - key: Movie
+      value: "[Your favorite movie]"
+    - key: Quote
+      value: "[A quote you like]"
+
+- key: Contact
+  value:
+    - key: Email
+      value: "[jaime]"
+      url: "mailto:[your email]"
+    - key: Message
+      value: Feel free to reach out!
 
 - key: return
   value: previous page

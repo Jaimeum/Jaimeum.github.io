@@ -1,21 +1,83 @@
-- key: Music and Spotify
+- key: Listening Statistics
   value:
-    - key: Most Listened Genre
-      value: house music
-    - key: Favorite Artist
-      value: muse
-    - key: Top Song
-      value: dragon attack
-    - key: Most Played Playlist
-      value: spanich
-      url: https://open.spotify.com/playlist/05y5TPKin0Q0cF85BgDbDC?si=1QrJYwwPThykcjnYy9c55A&pi=u-Ksesk_zlREOT
-    - key: Hours Listened This Month
-      value: too much time to keep track
-    - key: Top Discovery
-      value: electric light orchestra
-    - key: Favorite Podcast
-      value: la cotorrisa
+    - key: Total Scrobbles
+      value: "9,993"
+    - key: Last.fm Profile
+      value: jaimeum19
+      url: https://www.last.fm/user/jaimeum19
+
+- key: Top Artists
+  value:
+    - key: "#1"
+      value: Black Country, New Road (236 plays)
+      url: https://www.last.fm/music/Black+Country,+New+Road
+    - key: "#2"
+      value: Geese (196 plays)
+      url: https://www.last.fm/music/Geese
+    - key: "#3"
+      value: Jacob Collier (177 plays)
+      url: https://www.last.fm/music/Jacob+Collier
+    - key: "#4"
+      value: Daft Punk (164 plays)
+      url: https://www.last.fm/music/Daft+Punk
+    - key: "#5"
+      value: hyperdrive sound (115 plays)
+      url: https://www.last.fm/music/hyperdrive+sound
+
+- key: Top Tracks
+  value:
+    - key: "#1"
+      value: I Know (A Little) - Jacob Collier
+      url: https://www.last.fm/music/Jacob+Collier/_/I+Know+(A+Little)
+    - key: "#2"
+      value: Luna (En Vivo) - Zoé
+      url: https://www.last.fm/music/Zo%C3%A9/_/Luna+-+En+Vivo
+    - key: "#3"
+      value: Primera Cita - Carin Leon
+      url: https://www.last.fm/music/Carin+Leon/_/Primera+Cita
+    - key: "#4"
+      value: Goofy - Ax and the Hatchetmen
+      url: https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Goofy
+    - key: "#5"
+      value: Besties - Black Country, New Road
+      url: https://www.last.fm/music/Black+Country,+New+Road/_/Besties
+
+- key: Top Albums
+  value:
+    - key: "#1"
+      value: Discovery - Daft Punk
+      url: https://www.last.fm/music/Daft+Punk/Discovery
+    - key: "#2"
+      value: 3D Country - Geese
+      url: https://www.last.fm/music/Geese/3D+Country
+    - key: "#3"
+      value: Forever Howlong - Black Country, New Road
+      url: https://www.last.fm/music/Black+Country,+New+Road/Forever+Howlong
+    - key: "#4"
+      value: Racing Mount Pleasant - Racing Mount Pleasant
+      url: https://www.last.fm/music/Racing+Mount+Pleasant/Racing+Mount+Pleasant
+    - key: "#5"
+      value: Deseo, carne y voluntad - Candelabro
+      url: https://www.last.fm/music/Candelabro/Deseo,+carne+y+voluntad
+
+- key: Recently Played
+  value:
+    - key: "#1"
+      value: My Mistakes Were Made for You - The Last Shadow Puppets
+      url: https://www.last.fm/music/The+Last+Shadow+Puppets/_/My+Mistakes+Were+Made+for+You
+    - key: "#2"
+      value: She Does the Woods - The Last Shadow Puppets
+      url: https://www.last.fm/music/The+Last+Shadow+Puppets/_/She+Does+the+Woods
+    - key: "#3"
+      value: The Time Has Come Again - The Last Shadow Puppets
+      url: https://www.last.fm/music/The+Last+Shadow+Puppets/_/The+Time+Has+Come+Again
+    - key: "#4"
+      value: Meeting Place - The Last Shadow Puppets
+      url: https://www.last.fm/music/The+Last+Shadow+Puppets/_/Meeting+Place
+    - key: "#5"
+      value: In My Room - The Last Shadow Puppets
+      url: https://www.last.fm/music/The+Last+Shadow+Puppets/_/In+My+Room
 
 - key: return
   value: previous page
-  url: Jaimeum.github.io
+  url: https://jaimeum.github.io

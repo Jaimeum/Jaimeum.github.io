@@ -1,20 +1,28 @@
 - key: Video Games
   value:
     - key: Favorite Game
-      value: red death redemption 2
-    - key: most played game
-      value: Call of duty black ops 3
+      value: Red Dead Redemption 2
+    - key: Most Played Game
+      value: Call of Duty Black Ops 3
     - key: Most Played Genre
-      value: shooter
+      value: Shooter
     - key: Top Platform
       value: Xbox
     - key: Favorite Multiplayer Game
-      value: rocket league
+      value: Rocket League
     - key: Most Anticipated Release
-      value: Elden ring
+      value: Elden Ring
     - key: Favorite Indie Game
-      value: lies of p
+      value: Lies of P
+
+- key: Currently Playing
+  value:
+    - "[Add current game here]"
+
+- key: Backlog
+  value:
+    - "[Games you want to play]"
 
 - key: return
   value: previous page
-  url: Jaimeum.github.io
+  url: https://jaimeum.github.io

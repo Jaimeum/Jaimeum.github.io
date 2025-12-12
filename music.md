@@ -1,5 +1,5 @@
 ---
 layout: music
-title: my spotify
+title: My Music
 permalink: /music/
 ---

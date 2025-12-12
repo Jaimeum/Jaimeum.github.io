@@ -1,4 +1,4 @@
-- key: Manga
+- key: Manga & Light Novels
   value:
     - key: Favorite Manga
       value: One Piece
@@ -6,17 +6,28 @@
       value: Overlord
     - key: Most Read Genre
       value: Fantasy
-    - key: Top Manga This Month
-      value: fire punch
-    - key: Top Light Novel This Month
-      value: that time i got reincarnated as a slime
     - key: Favorite Mangaka
       value: Eiichiro Oda
-    - key: Top Recommendation
-      value: 20th century
-    - key: Latest Series Started
-      value: fire punch
+
+- key: Currently Reading
+  value:
+    - key: Manga
+      value: Fire Punch
+    - key: Light Novel
+      value: That Time I Got Reincarnated as a Slime
+
+- key: This Month's Favorites
+  value:
+    - key: Top Manga
+      value: Fire Punch
+    - key: Top Light Novel
+      value: That Time I Got Reincarnated as a Slime
+
+- key: Recommendations
+  value:
+    - 20th Century Boys
+    - "[Add more recommendations]"
 
 - key: return
   value: previous page
-  url: Jaimeum.github.io
+  url: https://jaimeum.github.io

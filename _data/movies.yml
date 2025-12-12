@@ -1,26 +1,37 @@
-- key: movies
+- key: Movies & Series
   value:
     - key: Favorite Movie
-      value: seven
+      value: Seven
     - key: Favorite Series
-      value: sherlok 
+      value: Sherlock
     - key: Favorite Anime
       value: One Piece
     - key: Most Watched Genre
       value: Sci-Fi
-    - key: Current Binge
-      value: the office
-    - key: Recently Watched Movie
-      value: the fall guy
-    - key: Recently Watched Anime
-      value: solo leveling
-    - key: Top Recommendation
-      value: 86, dororo
     - key: Comfort Show
-      value: brooklyn nine-nine
-    - key: Upcoming Release
-      value: deadpool 3
-      
+      value: Brooklyn Nine-Nine
+
+- key: Currently Watching
+  value:
+    - key: Series
+      value: The Office
+    - key: Anime
+      value: Solo Leveling
+
+- key: Recent Watches
+  value:
+    - key: Movie
+      value: The Fall Guy
+    - key: Anime
+      value: Solo Leveling
+
+- key: Recommendations
+  value:
+    - key: Anime
+      value: 86, Dororo
+    - key: Upcoming
+      value: Deadpool 3
+
 - key: return
   value: previous page
-  url: Jaimeum.github.io
+  url: https://jaimeum.github.io
